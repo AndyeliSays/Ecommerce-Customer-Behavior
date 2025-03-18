@@ -2,7 +2,7 @@
 
 <img src=https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_dashboard.png>
 
-<h1 align="center">E-commerce Consumer Behavior Analysis</h1>
+<h1 align="center">E-commerce Consumer Behavior</h1>
 
 ## Introduction:
 This project analyzes consumer behavior patterns in an e-commerce environment to identify key trends and optimize marketing strategies. This is an analysis of the purchasing patterns, consumer demographics and various engagement metrics.
