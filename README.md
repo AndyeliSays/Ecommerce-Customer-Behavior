@@ -1,4 +1,4 @@
---- EXCEL DASHBOARD -> [Ecommerce_Cleaned_Dashboard_RFM.xlsx]([URL_TO_YOUR_EXCEL_FILE](https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/Ecommerce_Cleaned_Dashboard_RFM.xlsx))
+--- EXCEL DASHBOARD -> [Ecommerce_Cleaned_Dashboard_RFM.xlsx](https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/Ecommerce_Cleaned_Dashboard_RFM.xlsx))
 
 <img src=https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_dashboard.png>
 
