@@ -9,7 +9,7 @@ This project analyzes consumer behavior patterns in an e-commerce environment to
 
 ## Business Task & Objectives:
 
- Using Excel, we explore and answer key business questions such as but not limited to: 
+We explore and answer key business questions such as but not limited to: 
 - How can we segment customers based on their RFM (Recency, Frequency, Monetary) profiles?
 - What factors most influence purchasing behavior?
 - How do different consumer demographics influence purchasing behavior?
