@@ -34,7 +34,9 @@ The dataset includes information on customer transactions, demographics, purchas
 ## RFM (Recency, Frequency, Monetary) Analysis
 
 <img src= https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_Rfm_snapshot.png>
+
 The RFM trend analysis demonstrates that targeting mid-value customers may yield better returns than exclusively focusing on the highest-value segments.
+
 - * There is no direct linear relationship between higher RFM scores and revenue; instead, the mid-range scores (200-400 range) represent the revenue sweet spot.
 - Lower to mid-range RFM scores generate the highest revenue, with scores like 211 ($11,257.18), 222 ($9,224.49), and 412 ($8,477.41) leading in revenue contribution.
 - The majority of revenue comes from customers with moderate recency, frequency, and monetary values rather than from the highest-scoring customers.
