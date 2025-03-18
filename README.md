@@ -20,7 +20,7 @@ This project analyzes consumer behavior patterns in an e-commerce environment to
 The dataset includes comprehensive information on customer transactions, demographics, purchasing patterns, and engagement metrics. 
 Cleaning Process and Dataset Breakdown:
 
-<img src=https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_cleaningprocess.png width="300">
+<img src=https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_cleaningprocess.png>
 
 ## Tools:
 - Data cleaning and exploration using EXCEL
