@@ -18,7 +18,7 @@ We explore and answer key business questions such as but not limited to:
 - Statistical analysis of consumer behavior patterns
 
 The dataset includes information on customer transactions, demographics, purchasing patterns, and engagement metrics. 
-Cleaning Process and Dataset Breakdown:
+- Cleaning Process and Dataset Breakdown:
 
 <img src=https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_cleaningprocess.png>
 
