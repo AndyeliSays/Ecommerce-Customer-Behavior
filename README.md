@@ -17,7 +17,7 @@ We explore and answer key business questions such as but not limited to:
 - What is the relationship between research efficacy and conversion rates?
 - Statistical analysis of consumer behavior patterns
 
-The dataset includes comprehensive information on customer transactions, demographics, purchasing patterns, and engagement metrics. 
+The dataset includes information on customer transactions, demographics, purchasing patterns, and engagement metrics. 
 Cleaning Process and Dataset Breakdown:
 
 <img src=https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_cleaningprocess.png>
