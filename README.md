@@ -33,7 +33,7 @@ The dataset includes information on customer transactions, demographics, purchas
 ---
 ## RFM (Recency, Frequency, Monetary) Analysis
 
-<img src= https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecommerce_Rfm_snapshot.png>
+<img src= https://github.com/AndyeliSays/Ecommerce-Customer-Behavior/blob/main/assets/Ecomm_Rfm_snapshot.png>
 
 *The RFM trend analysis demonstrates that targeting mid-value customers may yield better returns than exclusively focusing on the highest-value segments.*
 
