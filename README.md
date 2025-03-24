@@ -74,6 +74,7 @@ Our analysis of e-commerce consumer behavior reveals significant patterns and tr
 - Ad engagement analysis reveals significant variations in effectiveness across different customer segments
 
 <h1 align="center">Recommendations</h1>
+
 - Focus marketing efforts on Mid-Value customers RFM(200-400), they seem to generate the most revenue.
 - For Loyalty Members, maintaining engagement through rewards programs or premium content could strengthen the "High" category further. Loyalty members also exhibit reduced return rates.
 - Align inventory & promotions with Spring and Late Summer due to revenue peak trend, while December has a noticeable decline. Further investigation might be need to uncover why december is underperforming. 
